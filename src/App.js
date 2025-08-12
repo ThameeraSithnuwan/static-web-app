@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          By Thameera Fernando
+          By Thameera Sithnuwan Fernando
         </a>
       </header>
     </div>
